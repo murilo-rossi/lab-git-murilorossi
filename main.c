@@ -20,11 +20,6 @@ else{
 }
 }
 int main(void) {
-Instituto de Ciências Matemática e de Computação - ICMC
-Universidade de São Paulo - USP
-SSC0535 - GCMES
-1o Semestre de 2024
-Profa. Dra. Lina Garcés - linagarces@usp.br
  printf("\n\n ::::::::: INICIO DO PROGRAMA ::::::: \n\n");
  printf("\n\nDigite o número x: ");
  scanf("%d",&x);
